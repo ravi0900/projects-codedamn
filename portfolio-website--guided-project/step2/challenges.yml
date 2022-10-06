@@ -1,0 +1,11 @@
+name: "Adding Styles"
+stepId: step2
+stepBreakDown:
+  - text: "create index.js and style.css file"
+  - text: "Adding this in html fie for font https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+  - text: "Add  bootstrap styles html file"
+  - text: "Align the content of the page to left-center"
+  - text: "Add background-color to See More, View Resume button"
+  - text: "Add spacing between form input and button"
+  - text: "Align space as you like"
+  - text: "Set the font size to heading, description and footer text"

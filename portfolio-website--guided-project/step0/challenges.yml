@@ -1,0 +1,7 @@
+name: "Creating Elements and tags"
+stepId: step0
+stepBreakDown:
+  - text: "Add the heading and the description of the page"
+  - text: "Add nav bar and li tag and define color"
+  - text: "Add li tag ref and fill with lorem"
+  - text: "Add the footer"

@@ -1,0 +1,5 @@
+name: "Adding li tag description"
+stepId: step1
+stepBreakDown:
+  - text: "Add href for li tag items and make classes for them"
+  - text: "Add description as you want or use lorem"
