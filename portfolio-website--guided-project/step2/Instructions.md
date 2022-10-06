@@ -23,6 +23,8 @@ In this step you'll be adding the styles to make the landing page look better.
         <a href="" target="_blank" class="btn">View Resume</a>
     ```
 
+    
+
     Make sure everything working fine.
 
 2. Make sure to align the content by setting top and bottom margins 
