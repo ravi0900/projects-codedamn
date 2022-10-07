@@ -1,14 +1,15 @@
-In this step, our goal is to create the HTML elements and complete the basic Markup. 
+In this step, our goal is to create the index.html with HTML tag elements and complete the basic Markup. 
 
-You have to add all the HTML elements that are present in the design. 
+You have to add all the HTML tags.
+create li tag and add  
 
-- `About me` H1 heading 
+- `About me``Project` H1 heading 
 - Description 
 
     add h1 tag for li tag items 
     ```code
          <li class="nav-item">
-              <a href="#home" class="nav-link scroll-link">Home</a>
+              <a class="nav-link scroll-link">Home</a>
             </li>
     ```
     ```text

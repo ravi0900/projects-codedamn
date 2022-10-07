@@ -1,7 +1,9 @@
 name: "Creating Elements and tags"
 stepId: step0
 stepBreakDown:
-  - text: "Add the heading and the description of the page"
+  - text: "create index.js, index.html and style.css file"
+  - text: "we code firstly on index.html"
   - text: "Add nav bar and li tag and define color"
-  - text: "Add li tag ref and fill with lorem"
-  - text: "Add the footer"
+  - text: "Add li tag to make nav bar section"
+  - text: "make href and fill the use li componet in div and fille something p tag with lorem"
+  - text: "Add the footer tag and description"

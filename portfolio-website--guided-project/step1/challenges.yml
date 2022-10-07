@@ -1,5 +1,5 @@
-name: "Adding li tag description"
+name: "Adding href and tag description"
 stepId: step1
 stepBreakDown:
   - text: "Add href for li tag items and make classes for them"
-  - text: "Add description as you want or use lorem"
+  - text: "wirte description for div tags in p tag or use lorem for discription"

@@ -23,7 +23,9 @@ In this step you'll be adding the styles to make the landing page look better.
         <a href="" target="_blank" class="btn">View Resume</a>
     ```
 
-    
+``` go throgh this custom style sheet for style references
+    https://pastebin.com/DkGh7rix
+```
 
     Make sure everything working fine.
 
@@ -31,7 +33,7 @@ In this step you'll be adding the styles to make the landing page look better.
 
 3. Set the border of the See more and view resume button 
 
-    Set the border-radius property for both input and the submit button to `1.6 rem`
+    Set the border-radius property for both input and the submit button.
 
 4. Add the description as you want or use lorem.
 
