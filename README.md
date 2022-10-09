@@ -6,6 +6,8 @@ During Hacktoberfest, submit an interactive project to this repository and get a
 
 ## How to participate? (read carefully)
 
+If you want to watch a step-by-step video on how to contribute, check out this video: [https://www.youtube.com/watch?v=a65Qaycbb0k](https://www.youtube.com/watch?v=a65Qaycbb0k)
+
 In order to participate and win prizes, you have to submit a **guided project**. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE. Check out this [example guided project](https://codedamn.com/project/multiverse-html5-photo-gallery). Steps on how to do that is below.
 
 ### 1. Getting your boilerplate code ready
@@ -14,7 +16,7 @@ In order to participate and win prizes, you have to submit a **guided project**.
 
 2. Create a fresh folder structure for your project and keep the **required boilerplate code only**. Make sure to add all the assets related to the project. It is recommended to put all your assets in the `/assets` folder itself.
 
-3. Add a `.cdmrc` file on the top level of your Project. Go through this [documentation](https://teach.codedamn.com/cdmrc) to setup the `.cdmrc` file.
+3. Add a `.cdmrc` file on the top level of your Project. Go through this [documentation](https://teach.codedamn.com/docs/concepts/cdmrc) to setup the `.cdmrc` file.
 
 4. Create a new GitHub repository for the Project and keep the link with you, you'll use it in the next step.
 
@@ -28,7 +30,7 @@ In order to participate and win prizes, you have to submit a **guided project**.
 
 3. Create a `spec.yml` file inside the folder. This is the specification file that contains the metadata regarding the project. This data will be shown in the project landing page.
 
-Here is an example how the `spec.yml` file should look like, you can use this as a template for creating your own `spec.yml` file.
+Here is an example of how the `spec.yml` file should look like, you can use this as a template for creating your own `spec.yml` file.
 
 ```yaml
 name: Eventually - Stunning HTML5 Landing Page
@@ -114,7 +116,7 @@ Each field is explained in detail below.
 
 ### 3. Creating the steps for the project
 
-1. Before getting into the details of implementing the steps, we suggest you to mentally break down the project into small steps and make a not of the what each step of the project will look like. This helps you to understand the project better and also helps you to implement the steps in a better way.
+1. Before getting into the details of implementing the steps, we suggest you to mentally break down the project into small steps and make a note of what each step of the project will look like. This helps you to understand the project better and also helps you to implement the steps in a better way.
 
 2. There is no limit for the number of steps that can be created. For each step will have a separate folder for itself. The name of the folder should be the `step` followed by a number. The step names should go like `step0` , `step1`, `step2` and so on...
 
@@ -149,9 +151,9 @@ Each field is explained in detail below.
 
     Each object should have a `text` field that contains the challenge text, this challenge text is visible in the challenges tab in the playground.
 
-The users is supposed to self-assess the challenges themselves before moving to the next steps of the project.So, make sure that the challenges text is clear and concise.
+The users are supposed to self-assess the challenges themselves before moving to the next steps of the project.So, make sure that the challenges text is clear and concise.
 
-We have covered all the instructions that you need to be aware of for creator your first guided project. You can now start working on the project and get it ready for review.
+We have covered all the instructions that you need to be aware of as a creator to create your first guided project. You can now start working on the project and get it ready for review.
 
 ### 4. Creating a pull request
 
@@ -171,6 +173,6 @@ If you're based outside India:
 
 ## Reviewing of Project
 
-Once you have created a pull request, the project will be reviewed by the codedamn team. If there are any details that needs to fixed, we'll let you know in the Pull Request messages itself. Make sure to keep an eye on them.
+Once you have created a pull request, the project will be reviewed by the codedamn team. If there are any details that need to be fixed, we'll let you know in the Pull Request messages itself. Make sure to keep an eye on them.
 
 Once your Pull Request gets merged we'll send you a form to fill out the necessary details to ship your swags.
