@@ -1,6 +1,6 @@
 name: "Make the page responsive"
 stepId: step3
 stepBreakDown:
-  - text: "Scroll is responsive and dynamic, we will write code in index.js"
-  - text: "make custom js scipt for nav bar to fix while scrolling"
-  - text: "Page is responsive in resizing"
+  - text: "To make the page's Scroll responsive and dynamic, we will write our code in index.js"
+  - text: "Make custom js scipt for navbar to fix while scrolling"
+  - text: "Now your Page shoule be responsive when resizing"

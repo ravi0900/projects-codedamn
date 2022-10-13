@@ -1,9 +1,8 @@
 name: "Adding Styles"
 stepId: step2
 stepBreakDown:
-  - text: "write code for custom styling in style.css file"
-  - text: "Adding this in html fie for font https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
-  - text: "Add  bootstrap styles html file"
-  - text: "Add background-color to See More, View Resume button"
-  - text: "Add spacing between form input and button"
-  - text: "Align spaces"
+  - text: "Write code for custom styling in style.css file"
+  - text: "Add this in index.html for font https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+  - text: "Add bootstrap styles link in index.html file"
+  - text: "Add background-color to See More and View Resume button"
+  - text: "Add spacing between form inputs and button"
