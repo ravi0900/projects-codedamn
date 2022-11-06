@@ -1,7 +1,8 @@
-name: 'Build the Navbar Component for the Meme Generator Web Application'
+name: "Creating Elements "
 stepId: step0
 stepBreakDown:
-    - text: 'There must be one <nav> tag'
-    - text: 'There must be an <img /> tag having image source as header-logo.png in the navbar'
-    - text: 'There must be one <h2> tag within the <nav>...</nav> tags with project name as text'
-    - text: 'There must be one <h4> tag within the <nav>...</nav> tags with text as "React Project"'
+  - text: "Add the generate Meme button"
+  - text: "Add the loading Meme title"
+  - text: "Add the Meme author class"
+  - text: "Add the relation between css and java script"
+

@@ -1,9 +1,9 @@
 name: Zomato-Clone
 tags: ["HTML/CSS"]
-starter-files: https://github.com/Pratham-R/ZomatoClone
+starter-files: https://github.com/codedamn-projects/ZomatoClone
 type: frontend
 level: easy
-cover-image: https://github.com/Pratham-R/ZomatoClone/blob/main/designs/LandingPage%5BWebsite%5D.png
+cover-image: https://raw.githubusercontent.com/codedamn-projects/ZomatoClone/main/designs/zomato.png
 short-description: A simple and minimal landing page of Zomato.
 long-description: |
     Your challenge is to build out this Clone and get it looking as close to the design as possible.
