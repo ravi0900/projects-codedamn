@@ -8,9 +8,9 @@ Note: If you don't know about `Number system conversion` just google it and chec
 
 Go to the `number_system_module.js` tab and do the following:
 
-1. Convert a decimal number to binary number using <b>toString(<i>Radix</i>)</b> method.
+1. Convert a decimal number to binary number using `toString(Radix)` method.
 
-    - <i>Radix</i> => Base of the number (Here 2, Since we are converting from `decimal to binary`)
+    - Radix => Base of the number (Here 2, Since we are converting from `decimal to binary`)
 
     Sample code: 
     ```js
@@ -18,7 +18,7 @@ Go to the `number_system_module.js` tab and do the following:
     ```
     Note: Don't forget to `return` the `ans`.
 
-2. Now do the reverse thing (`binary to decimal`) but! but! but! using <b>parseInt(<i>Number</i>,<i>Radix</i>)</b> method.
+2. Now do the reverse thing (`binary to decimal`) but! but! but! using `parseInt(Number,Radix)` method.
 Here `radix = 2` and `Number = N`.
 
     - `Home Task` => Why we can't use the `toString` method to convert binary to decimal?
@@ -45,7 +45,7 @@ Here `radix = 2` and `Number = N`.
     }
     return oct;
     ```
-4. Now do the reverse thing (`octal to decimal`) by using <b>parseInt(<i>Number</i>,<i>Radix</i>)</b> method.
+4. Now do the reverse thing (`octal to decimal`) by using `parseInt(Number,Radix)` method.
 
     Note: Here `Number = N` and `Radix = 8` (Since we are dealing with octal number).
 
@@ -102,7 +102,7 @@ Here `radix = 2` and `Number = N`.
     }
     return hex.split("").reverse().join(""); // reversing the remainder sequence and return
     ```
-6. Now do the reverse thing (`hexadecimal to decimal`) by using <b>parseInt(<i>Number</i>,<i>Radix</i>)</b> method.
+6. Now do the reverse thing (`hexadecimal to decimal`) by using `parseInt(Number,Radix)` method.
 
     Note: Here `Number = N` and `Radix = 16` (Since we are dealing with hexadecimal number).
 
@@ -110,4 +110,4 @@ Here `radix = 2` and `Number = N`.
 
     ![App Screenshot](https://raw.githubusercontent.com/ritwickrajmakhal/ScreenShots-for-number-system-using-js/master/sc4.png)
 
-    <b>Don't worry about this error you will fix it in the next step.
+    Don't worry about this error you will fix it in the next step.

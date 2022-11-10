@@ -31,7 +31,7 @@ Go to the `script.js` tab and do the following:
 
     Note: You should follow this table to create all the variables.
 
-2. Add an event listener to the <button>RESET</button> button using <b>addEventListener(<i>event</i>,<i>callback function</i>)</b>.
+2. Add an event listener to the `RESET` button using `addEventListener(event,callback function)`.
 
     Sample code:
     ```js
@@ -39,7 +39,7 @@ Go to the `script.js` tab and do the following:
         
     });
     ```
-    `reset_btn` is a variable that actually selects the <button>`RESET`</button> button.
+    `reset_btn` is a variable that actually selects the `RESET` button.
 
     Within this function set the `input.value` and `output.value` as an empty string (`""`).
     This will help you to clear the input-output screen.
@@ -48,7 +48,7 @@ Go to the `script.js` tab and do the following:
 
     Note: `selectedIndex` refers to the index (starts from 0) of the `<option>` tag present in the `index.html`.
 
-3. Add an event listener to the <button>SWAP</button> button using <b>addEventListener(<i>event</i>,<i>callback function</i>)</b>.
+3. Add an event listener to the `SWAP` button using `addEventListener(event,callback function)`.
 
     Sample code:
     ```js
@@ -56,7 +56,7 @@ Go to the `script.js` tab and do the following:
         
     });
     ```
-    `swap_btn` is a variable that actually selects the <button>`SWAP`</button> button.
+    `swap_btn` is a variable that actually selects the `SWAP` button.
 
     Within this function
 

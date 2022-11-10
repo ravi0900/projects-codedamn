@@ -4,7 +4,7 @@ starter-files: https://github.com/ritwickrajmakhal/number-converter
 type: frontend
 level: medium
 cover-image: https://raw.githubusercontent.com/ritwickrajmakhal/ScreenShots-for-number-system-using-js/master/cover_img.png
-short-description: A Number Converter which can convert from any number system to any number system.
+short-description: A Number Converter which can convert a number from any number system to other any number system.
 long-description: |
     Your challenge is to build out this converter and get it looking as close to the functionalities as possible.
 

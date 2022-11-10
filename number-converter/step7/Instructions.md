@@ -3,7 +3,7 @@ In this step you will conclude this project.
 ## What will you do?
 Go to the `script.js` tab and do the following:
 
-1. Add an event listener to the `CALCULATE` button using <b>addEventListener(<i>event</i>,<i>callback function</i>)</b>.
+1. Add an event listener to the `CALCULATE` button using `addEventListener(event,callback function)`.
 
     Sample code:
     ```js
@@ -11,9 +11,9 @@ Go to the `script.js` tab and do the following:
 
     });
     ```
-    Note: `calc_btn` is a variable that actually selects the <button>`CALCULATE`</button> button.
+    Note: `calc_btn` is a variable that actually selects the `CALCULATE` button.
 
-2. Complete this callback functions following the give steps bellow.
+2. Complete this callback functions following the given steps bellow.
 
     - Create a variable called `input_no_system` and store which input option the user has selected.
     - Create a variable called `output_no_system` and store which output option the user has selected.
@@ -72,8 +72,27 @@ Go to the `script.js` tab and do the following:
 
     ![Table Image](https://raw.githubusercontent.com/ritwickrajmakhal/ScreenShots-for-number-system-using-js/master/sc6.png)
 
-    Note: For `Decimal`, `Binary` and `Octal` to other number system conversion all the functions <b>needs an integer argument</b> for that we need a `String-Integer` conversion before calling the function.
+    Note: For `Decimal`, `Binary` and `Octal` to other number system conversion all the functions `needs an integer argument` for that we need a `String-Integer` typecasting before calling the functions, but for `Hexadecimal` to other number system conversion all the functions `needs a string argument` for that we don't need any `String-Integer` typecasting (Sample code given in the next instruction).
+4. After that you should display the `ans` in the `output` field. For that just set `output.value` as `ans`.
 
+    Sample code:
+    ```js
+        // Continuation of previous else if statement.
+        else if(input_no_system == "Hexadecimal"){
+            input_val = input.value; // No need of String-Integer typecasting
+            if (output_no_system == "Decimal") {
+                ans = hex_to_dec(input_val);
+            }
+            else if (output_no_system == "Binary") {
+                ans = hex_to_bin(input_val);
+            }
+            else if (output_no_system == "Octal") {
+                ans = hex_to_oct(input_val);
+            }
+        }
+        output.value = ans; // displaying the result
+    }); // End of callback function for calc button
+    ```
 We have completed the project, make sure that everything is working fine. Mark all the steps as complete, and submit the project!
 
 Congratulations, you have come a long way! You have completed the project and learned a lot of new things. Take up the next <a href="https://codedamn.com/projects">project</a> and start building on your own.
