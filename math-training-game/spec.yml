@@ -1,8 +1,8 @@
 name: Math Training Game
-tags: ['HTML/CSS', 'JavaScript']
+tags: ["HTML/CSS", "JavaScript"]
 starter-files: https://github.com/ritwickrajmakhal/math-training-game
 type: frontend
-level: Easy
+level: easy
 cover-image: https://raw.githubusercontent.com/ritwickrajmakhal/ScreenShots-for-math-training-game/master/sc1.png
 short-description: Using this Math Training Game you can improve your verbal calculation.
 long-description: |
