@@ -1,12 +1,12 @@
 name: Digital Clock App
 tags: ["React", "HTML/CSS", "JavaScript", "Quotable"]
-starter-files: https://github.com/iamvishal345/web-clock/tree/starter-project
+starter-files: https://github.com/codedamn-projects/digital-clock-app
 type: frontend
 level: medium
-cover-image: https://raw.githubusercontent.com/iamvishal345/web-clock/main/public/cover_image.png
+cover-image: https://raw.githubusercontent.com/codedamn-projects/digital-clock-app/master/designs/Lading_Page%5BDesktop%5D.png
 short-description: Build a Web app to show current date time and use external apis to show user's location and a random quote.
 long-description: |
-  Your challenge is to design this page and integrate quotable api to get random quote and ipv6 with geolocation to get city name (Also can be done using HTML Geolocation API).
+  Your challenge is to design this page and integrate quotable api to get random quote and ipv6 with geo-location to get city name (Also can be done using HTML Geo-location API).
 
   This Project focuses on React, but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
 
