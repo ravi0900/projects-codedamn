@@ -12,5 +12,3 @@
 Note: For heading you can also use div tag and specify font size.
 
  -With the help of <hr> tag give a horizontal line
-
-
