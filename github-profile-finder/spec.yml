@@ -1,5 +1,5 @@
-name: GitHub Profile Finder Template
-tags: ['React', 'Redux']
+name: GitHub Profile Finder
+tags: ["React", "Redux"]
 starter-files: https://github.com/sagar-7227/GitHub-Profile-Finder-Template.git
 type: fullstack
 level: medium
