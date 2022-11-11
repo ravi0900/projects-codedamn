@@ -1,10 +1,10 @@
 name: Galaxy Library
-tags: ['HTML/CSS', 'JavaScript', 'React' , 'TailwindCSS']
-starter-files: https://github.com/Abbhiishek/galaxy-library
+tags: ["HTML/CSS", "JavaScript", "React", "TailwindCSS"]
+starter-files: https://github.com/codedamn-projects/galaxy-library
 type: frontend
 level: medium
-cover-image: https://raw.githubusercontent.com/Abbhiishek/galaxy-library/main/public/main.png
-short-description: A Small Library which contains the information of galactic Species , Vechciles , Ships which appeared 
+cover-image: https://raw.githubusercontent.com/codedamn-projects/galaxy-library/main/public/main.png
+short-description: A Small Library which contains the information of galactic Species , Vehicles , Ships which appeared
 long-description: |
     In this project, you're supposed to build a Galaxy Library. This includes the following features:
 
