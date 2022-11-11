@@ -2,11 +2,11 @@ name: portfolio-website-guided-project
 tags: ["HTML/CSS","JavaScript"]
 starter-files: https://github.com/ravi0900/portfolio-website-codedamn
 type: frontend
-level: easy
-cover-image: https://raw.githubusercontent.com/ravi0900/portfolio-website-codedamn/master/assets/design/Preview1.png
-short-description: Personal portfolio website using html,css and Js.
+level: medium
+cover-image: https://raw.githubusercontent.com/ravi0900/portfolio-website-codedamn/master/assets/design/Preview1.gif
+short-description: Your challenge to make a Personal portfolio website similar to given preview and demo using html, css, javscript.
 long-description: |
-  This is portfolio Website page Project.
+  This is personal portfolio Website page Project.
   
   This project focuses mostly on HTML, CSS and JavaScript.
 
