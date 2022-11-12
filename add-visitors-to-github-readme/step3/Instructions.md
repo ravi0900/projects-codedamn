@@ -1,62 +1,56 @@
-# _**Step3: Upload the code from `codedamn's playground` to your `github repository`.**_
+#### **Steps**
 
-[_**Working Demo**_](https://github.com/tanishq-singh-2301/add-visitors-to-github-readme)
-
-### _**Steps**_
-
-- _**Create a Github token to push your code**_
+- **Create a Github token to push your code**
   1. Go to [github.com/settings/tokens](https://github.com/settings/tokens)
   2. Click `Generate new token.`
   3. Set a name `Codedamn's playground.`
   4. Give the `repo` scope (that will be sufficient).
 
-<br />
+- **Create a remote repository**
+  
+    - Visit [Github](https://github.com)
+    - Click on `+` icon on top right corner and click on `New repository` in the drop down menu.
+    - Set a repository name and click on `Create repository` button.
+    - Copy the repository URL and paste it in the `git remote add origin <repo-url>` command.
 
-- _**Create a Github repository**_
-  1. Go to [github.com/new](https://github.com/new)
-  2. Set a name `my-cool-project`
-  3. Give the `Create repository` to generate an empty repository.
-
-<br />
-
-- _**Initialize Git**_
+- **Initialize Git**
 
   ```bash
   git init
   ```
 
-- _**Set Global Git Configuration**_
+- **Set Global Git Configuration**
 
   ```bash
   git config --global user.name "Your name" # Not username
   git config --global user.email "your-email@example.com"
   ```
 
-- _**Add all the files (what you want to push)**_
+- **Add all the files (what you want to push)**
 
   ```bash
   git add .
   ```
 
-- _**Commit files**_
+- **Commit files**
 
   ```bash
   git commit -m "My cool project is ready..!!"
   ```
 
-- _**Make a default branch (main)**_
+- **Make a default branch (main)**
 
   ```bash
   git branch -M main
   ```
 
-- _**Add repo's origin**_
+- **Add repo's origin**
 
   ```bash
   git remote add origin https://github.com/your-user-name/your-repo-name.git
   ```
 
-- _**Push the code.**_
+- **Push the code.**
 
   ```bash
   git push -u origin main
@@ -65,7 +59,6 @@
   - Then you'll be promoted to give `username` and `password`.
   - for `password` you've to give `token` that you generated.
 
-<br />
-<hr />
 
-## **_Congratulations_ 🥳🥳**
+
+## **Congratulations 🥳🥳**

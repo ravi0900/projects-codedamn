@@ -1,4 +1,4 @@
-name: "Upload the code from codedamn's playground to your github repository."
+name: "Pushing code to your GitHub repo"
 stepId: step3
 stepBreakDown:
   - text: "Create a Github token to push your code"
