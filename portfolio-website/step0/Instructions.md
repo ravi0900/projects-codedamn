@@ -7,7 +7,7 @@ create li tag and add
 - Description 
 
     add h1 tag for li tag items 
-    ```code
+    ```html
          <li class="nav-item">
               <a class="nav-link scroll-link">Home</a>
             </li>
@@ -18,7 +18,7 @@ create li tag and add
     ```
 - Footer
     Add the footer text 
-    ```text
+    ```html
     Created By <Your Name> | &copy; 2022 All rights reserved.
     ```
     For using the copyright symbol, you can also make use of HTML Entity `&copy;`

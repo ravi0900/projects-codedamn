@@ -1,14 +1,14 @@
  In this step you have to add some discription and class ref for li tag to page 
 
 use href code like this
-```code
+```html
          <li class="nav-item">
               <a href="#home" class="nav-link scroll-link">Home</a>
             </li>
     ```
 
-add discription under p tag
-```description
+add discription under <p></p> tag
+```html
     <section class="section about" id="about">
     <div class="title">
       <h1>About me</h1>

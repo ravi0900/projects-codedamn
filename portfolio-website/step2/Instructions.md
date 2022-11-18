@@ -1,14 +1,14 @@
 In this step you'll be adding the styles to make the landing page look better. 
 
-1. this script in you html file used for decoration. 
+1. use this code in you html and css file for decoration. 
 
-    ```font
+    ```html
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
     ```
-    ```custome font
+    ```css
         font-family: "Poppins", sans-serif;
     ```
-    ```button
+    ```html
         <a href="" target="_blank" class="btn">View Resume</a>
     ```
 

@@ -1,7 +1,7 @@
 In this step you have to make sure that the landing page is responsive across all major resolution breakpoints. 
 
 the page must be respionsive here is a code reference
-```code
+```js
   AOS.init();
 const menu = document.querySelector(".menu");
 const navOpen = document.querySelector(".hamburger");
@@ -24,7 +24,8 @@ navClose.addEventListener("click", () => {
 });
 ```
 
-```Fixed Nav
+```js
+//fix nav bar
 const navBar = document.querySelector(".nav");
 const navHeight = navBar.getBoundingClientRect().height;
 window.addEventListener("scroll", () => {
