@@ -1,7 +1,7 @@
 In this step, our goal is to create the index.html with HTML tag elements and complete the basic Markup. 
 
 You have to add all the HTML tags.
-create li tag and add  
+create <li> tag and add  
 
 - `Home`, `About me`, `Project` H1 heading 
 - Description 
@@ -12,13 +12,13 @@ create li tag and add
               <a class="nav-link scroll-link">Home</a>
             </li>
     ```
-    ```text
-    A simple template for telling the world when you'll launch
-    your next big thing. Brought to you by HTML5 UP.
+    ```html
+    <p>A simple template for telling the world when you'll launch
+    your next big thing. Brought to you by HTML5 UP</p>.
     ```
 - Footer
     Add the footer text 
     ```html
-    Created By <Your Name> | &copy; 2022 All rights reserved.
+    <footer>Created By YourName | &copy; 2022 All rights reserved.</footer>
     ```
     For using the copyright symbol, you can also make use of HTML Entity `&copy;`

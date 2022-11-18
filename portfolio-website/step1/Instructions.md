@@ -14,7 +14,7 @@ add discription under <p></p> tag
       <h1>About me</h1>
     </div>
     <div class="right" data-aos="fade-left" data-aos-duration="2000">
-        <h1>I'm Ravi</h1>
+        <h1>I'm YourName</h1>
         <p>
          lorem.
         </p>
